@@ -64,19 +64,24 @@
     "ru": " Опишите персонажа (Внешность, характер) ( Скажите 'done' , когда закончите описание"
   },
   "What level is the character?": {
-    "fr": "Quel est le niveau du personnage ?"
+    "fr": "Quel est le niveau du personnage ?",
+    "ru": "Какого уровня персонаж?"
   },
-  "Any additional info? (Add a character image using the image keyword. Formats use regular syntax i.e `image: http://image.com/image.jpg, hair_color: blond, nickname: Kevin` (Separate keys with commas or newlines)": {
+  "Any additional info? (Add a character image using the image keyword. Formats use regular syntax i.e `image: http://image.com/image.jpg, hair_color: blond, nickname: Kevin` (Separate keys with commas or newlines": {
     "fr": "Information supplémentaire ? (Ajouter une image au personnage avec le mot-clé `image`, avec la syntaxe suivante : `image: http://image.com/image.jpg, cheveux: bruns` (Separer les mot-clés avec des virgules ou de nouvelles lignes)"
+    "ru": "Дополнительная информация (Добавьте ключевые слова. Используйте эти команды ' image: http://image.com/image.jpg, hair_color: Блондин, nickname: Кевин' (Разделяйте ключи запятыми)"
   },
   "Cancelling!": {
-    "fr": "Annulant !"
+    "fr": "Annulant !",
+    "ru": "Закрыто!"
   },
   "Skipping!": {
-    "fr": "Passant !"
+    "fr": "Passant !",
+    "ru": "Пропускаем!"
   },
   "Character created! rp!team addmember to add to your characters team!": {
-    "fr": "Personnage créé ! Effectuez `rp!team addmember` pour ajouter des personnages à votre équipe !"
+    "fr": "Personnage créé ! Effectuez `rp!team addmember` pour ajouter des personnages à votre équipe !",
+    "ru": "Персонаж создан! Используйте rp!team addmember, чтобы добавить вашего персонажа в команду!"
   },
   "That character doesn't exist!": {
     "fr": "Ce personnage n'existe pas !"
